@@ -1,2 +1,4 @@
 *_dataset
 .env
+*secret*
+*secrets*
